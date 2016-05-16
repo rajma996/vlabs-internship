@@ -1,0 +1,19 @@
+#+title: Daily work log for Raj Manvar
+
+* Month of May
+** [2016-05-16 Mon]
+   + Attend boot camp
+   + Set up laptop for development
+   + Got familiar with git and version control
+   + Got familiar with emacs
+
+** [2016-05-17 Tue]
+   + start using emacs 
+
+** Weekly  Summary
+   + What are the insights gained?
+   + What is my footprint in the realization of the project?
+
+
+* Month of June
+* Month of July
