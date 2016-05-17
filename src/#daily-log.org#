@@ -14,9 +14,11 @@
 ** [2016-05-17 Tue]
    + start using emacs 
    + Got familiar with requirements gathering
-   + Got familiar with data-model, entities, relations, entity set, system
+   + Got familiar with data-model, entities, relations, entity set, system, relations.
    + Met Sai Gollapudi and discussed the requirements of the renarration webapp
      and the plan for first two releases.
+  
+
 ** Weekly  Summary
    + There can be many limitations in the requirements specified by the client.
    + New questions can come up when formalizing the requirements .
