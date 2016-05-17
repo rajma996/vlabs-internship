@@ -34,3 +34,18 @@
    the client process which is responded back by the client. 
    Various steps like version control, requirement gathering, testing,
    deployment are a part of developing a webapp. 
+
+* List of technologies
+
+  -[[http://www.python.org][ python]] :: Python will be the main language of implementation. Version to be
+       used is 2.7 (not 3.x versions)
+  - [[http://flask.pocoo.org/][flask]] :: Flask is framework for web application development in python.
+  - [[http://www.javascript.com][Javascript]] :: Javascript is used for client side validation.
+  - [[http://www.mysql.com][Mysql]] :: for storing and quering the database . 
+  
+
+
+
+
+   
+
