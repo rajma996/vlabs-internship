@@ -2,10 +2,14 @@
 
 * Month of May
 ** [2016-05-16 Mon]
+
    + Attend boot camp
+   + start using emacs
+
    + Set up laptop for development
    + Got familiar with git and version control
    + Got familiar with emacs
+   + wrote small programs in C and python using emacs
 
 ** [2016-05-17 Tue]
    + start using emacs 
