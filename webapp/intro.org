@@ -45,10 +45,66 @@
   - [[http://www.mysql.com][Mysql]] :: for storing and quering the database . 
 
 * Diagram 
-** [[image.jpg][Image for client-server model ]]
+** [[./image.jpg][Image for client-server model ]]
 
 
+* Requirement gathering
 
+  Requirement gathering includes asking the client about all the requirements
+  the software has to fulfill.  There can be many loopholes in the beginning
+  which needs to be taken care in the beginning, and can be removed by
+  formalizing all the requirements.
 
+* Data-model 
+
+** notation 
+   B or B* - zero or more of B
+   B? - atmost 1 of B
+   B! - exactly one of B
+   B+ - atleast 1 of B
+
+** relation 
+   r : A > B  this denotes that there exists a relation between A and B
+   we can use notation here 
+   Ex. r : A > B! this shows for all a in A there is exactly one b in B. This
+   is denotion of function.
+
+** Relation notation :
+
+   [ a,b ] : A+ > B? 
+   a is a relation a : A > B?
+   and b : B > A+
+   and a is inverse of b
+
+** system 
+   
+   Based on the input and the state, the system gives an output.
+
+** Entities and Relation 
+
+   entity is something about which some data is stored .  Based on the
+   requirements of the client, we need to define relations between these
+   entities. to completely define the entities well, we require relation from
+   one entity to another and an inverse relation as well.
+
+** Entity sets 
+   
+   The entity sets are the sets which have entity elements within them.
+   For ex: the set of users who are currently logged in.
+
+** Entity set relations
+
+   The relations between these entity sets .
+
+** Diagram notation 
+
+   [ a,b ] : A+ > B! can be denoted as [[./entity_relation.jpg][image]] .
+
+** System variable
+   
+   The variables which define the state in which the system is at present .
+   This mainly includes the entity and entity set.  Based on these variables
+   the state of the system is determined which will then define what output
+   corresponds to input . 
    
 
