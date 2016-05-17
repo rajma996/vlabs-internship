@@ -263,7 +263,7 @@ deployment are a part of developing a webapp.
 <h2 id="orgheadline12"><span class="section-number-2">5</span> List of technologies</h2>
 <div class="outline-text-2" id="text-5">
 <p>
--<a href="http://www.python.org/">python</a> :: Python will be the main language of implementation. Version to be
+-<a href="http://www.python.org/"> python</a> :: Python will be the main language of implementation. Version to be
      used is 2.7 (not 3.x versions)
 </p>
 <dl class="org-dl">
