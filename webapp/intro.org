@@ -1,0 +1,36 @@
+#+TITLE: Building a Web application: Ground up to the cloud 
+#+AUTHOR: Raj Manvar
+#+Date: [2016-05-17 Tue]
+
+* Broad Idea 
+** Server-Client model
+   Web application is a client server model, where client sends a request in
+   some format which is processed by the server and the answer is sent
+   back.  The server has a database with it which is the main essence of the
+   server.  All the requests are answered based on the content in the
+   database.  The request may also be a request to edit the database.
+** data Model:
+   Data model is way in which the data will be stored in the server database.
+
+* Flow of a request
+** request flow
+   The client sends a request in form of some link or buttons on the browser
+   which is converted to appropriate format and sent to the client .
+   The client then interprets the request and based on the content of the
+   database answers, the response is then interpreted again by the client and
+   then appropriate response is shown on the browser
+
+* Interfaces
+** Rest API
+   The rest api is the way or method in which the URL entered by the client is
+   interpreted by the client.
+** consistent API
+   The interface between the client process and the database.
+** Many other interfaces also are present
+
+* Life Cycle 
+** SDLC
+   The webapp never stops is a sense that constantly new requests come up to
+   the client process which is responded back by the client. 
+   Various steps like version control, requirement gathering, testing,
+   deployment are a part of developing a webapp. 
