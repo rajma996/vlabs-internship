@@ -17,11 +17,27 @@
    + Got familiar with data-model, entities, relations, entity set, system
    + Met Sai Gollapudi and discussed the requirements of the renarration webapp
      and the plan for first two releases.
+
+** [2016-05-18 Wed]
+   + got familiar with object oriented programming
+   + understood the reasons for the requirement of object oriented 
+   + got familiar with builds using makefiles in org files
+   + wrote classes, methods and test cases corresponding to the entities as in
+     the data model (whole day took this...)
+   + met Sai Gollapudi and discussed the initial learning steps to be taken
+     for making the renarration app
+   + got to know about the gitignore file
+
 ** Weekly  Summary
    + There can be many limitations in the requirements specified by the client.
    + New questions can come up when formalizing the requirements .
    + What is my footprint in the realization of the project?
-
+   + Test cases are important . Try writing the test cases first and then the
+     class/method
+   + Make files can do awesome things. I really liked the systematic method of
+     putting everything under one org file and the make file doing everything
+     else of dividing in different folder and test cases. Kudos to who thought
+     this.
 
 * Month of June
 * Month of July
