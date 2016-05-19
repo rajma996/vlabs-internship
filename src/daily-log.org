@@ -27,7 +27,8 @@
    + met Sai Gollapudi and discussed the initial learning steps to be taken
      for making the renarration app
    + got to know about the gitignore file
-
+** [2016-05-18 Wed]
+   + continued making the object model for the web application
 ** Weekly  Summary
    + There can be many limitations in the requirements specified by the client.
    + New questions can come up when formalizing the requirements .
