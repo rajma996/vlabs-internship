@@ -34,6 +34,13 @@
 ** [2016-05-22 Sun]
    + Completed the data model with all methods and function as in the requirements
 
+** [2016-05-22 Mon]
+   + Made changes in the boject model
+   + changed the user and the session list to system class
+   + Tried to understand persistance and the tried setting up the virtual enviornment
+   + I amnot able to get a cleat picture of the virtual envoirnment thing 
+     and the database 
+
 ** Weekly  Summary
    + There can be many limitations in the requirements specified by the client.
    + New questions can come up when formalizing the requirements .
@@ -44,6 +51,8 @@
      putting everything under one org file and the make file doing everything
      else of dividing in different folder and test cases. Kudos to who thought
      this.
+   + Never copy from someones code
+   + never make changes in code without understanding.
 
 * Month of June
 * Month of July
