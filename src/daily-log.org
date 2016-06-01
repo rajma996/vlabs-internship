@@ -75,6 +75,23 @@
    + added test cases for rest apis 
    + test cases for delete and update user left
 
+** [2016-05-31 Tue]
+   + Removed the user list from system class
+   + Found a major bug (whenever a user instance was created the user was getting added to database without saving)
+   + enhanced all the test cases accordingly by removing the bug
+   + got familiar with the front end part and the code structure
+   + successfully made login at frontend
+
+
+* Month of June
+
+** [2016-06-01 Wed]
+   + Mostly did the front end part
+   + Except for delete user entire front end done
+   + searched for passing data in http get using headers
+   + found interesting method of passing error strings from back to front end
+   
+
 ** weekly Summary
 
 
