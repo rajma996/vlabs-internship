@@ -91,6 +91,10 @@
    + searched for passing data in http get using headers
    + found interesting method of passing error strings from back to front end
    
+** [2016-06-02 Thu]
+   + Completed the front end with all details
+   + Deployed the web-app on the server
+   + made a rough plan about the documentation to be made.
 
 ** weekly Summary
 
