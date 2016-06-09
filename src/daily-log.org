@@ -96,8 +96,29 @@
    + Deployed the web-app on the server
    + made a rough plan about the documentation to be made.
 
+** [2016-06-03 Fri]
+   + Made presentation for the web application 
+   + Presented the web-application with demo.
+   + met Sai Gollapudi sir and revised the release plans and decided on the
+     next immediate steps to be taken
+
 ** weekly Summary
+  + Hosting a web-app is very easy, just copying files into the /var/www folder
 
+** [2016-06-06 Mon]
+ + Discussed with Sai sir and got a better picture of the web application
+ + Went through the high level design document again and understood the key points in th web application
+ + Understood the code of the annolet build by raghav as it is to be used 
 
-* Month of June
+** [2016-06-07 Tue]
+ + Made and tested API for translation to phonetic translation
+ + Decided to use API of other website for getting the phonetic translation
+
+** [2016-06-09 Thu]
+ + Completed the API for phonetic translation with test cases and documentation
+ + Met Sai sir and discussed the next step for web-services that is the translations for date and currency
+ + Me and raghav pushed our code and documents to a common repository with different branches, will be 
+   merged as work is done.
+  
+
 * Month of July
