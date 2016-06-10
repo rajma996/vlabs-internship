@@ -119,6 +119,8 @@
  + Met Sai sir and discussed the next step for web-services that is the translations for date and currency
  + Me and raghav pushed our code and documents to a common repository with different branches, will be 
    merged as work is done.
-  
+
+** [2016-06-10 Fri]
+ + Made APIs for date formatting .
 
 * Month of July
