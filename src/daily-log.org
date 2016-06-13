@@ -123,4 +123,15 @@
 ** [2016-06-10 Fri]
  + Made APIs for date formatting .
 
+** [2016-06-11 Sat]
+ + synced the access permissions in the git repositories.
+ + ran and verified the working of the servers
+
+** weekly Summary
+
+** [2016-06-13 Mon]
+ + Got familiar with the annolet code.
+ + learned making a HTTP request in javascript
+ + added a function in annolet which get the phonetic translation by making request to server.
+
 * Month of July
