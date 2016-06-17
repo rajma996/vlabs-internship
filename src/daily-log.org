@@ -134,4 +134,18 @@
  + learned making a HTTP request in javascript
  + added a function in annolet which get the phonetic translation by making request to server.
 
+** [2016-06-14 Tue]
+ + Decided to make a list of 1000 words for phonetic translations.
+ + made the list of 1000 common words 
+ + faced some synchronizations problems as some time is required to make a request
+
+** [2016-06015 Wed]
+ + Made a web service to get phonetic translation from the web.
+ + the service is however very slow at present
+
+** [2016-06-16 Thu]
+ + added literate programming to the current project
+ + completed the phonetics translation web service and made corresponding changes 
+ + getting ready for tomorrow's presentation
+
 * Month of July
