@@ -148,4 +148,13 @@
  + completed the phonetics translation web service and made corresponding changes 
  + getting ready for tomorrow's presentation
 
+** [2016-06-17 Fri]
+ + Had a meeting with venkatesh sir on whatever we have progressed till now.
+ + Met Sai sir and discussed the future plans and modifications in the design.
+ + Finalized the design and the flow of the app by discussion
+
+** weekly summary
+ + Don't think of implementation while designing . It stops the flow of ideas.
+ + you should be easily move from the abstractions to implementation of your system, sign of a good design
+
 * Month of July
