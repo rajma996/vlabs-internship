@@ -157,4 +157,9 @@
  + Don't think of implementation while designing . It stops the flow of ideas.
  + you should be easily move from the abstractions to implementation of your system, sign of a good design
 
+** [2016-06-20 Mon]
+ + Added language translation API
+ + modified front end to access the API
+ + looked a little bit at getting the audio.
+
 * Month of July
