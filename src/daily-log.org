@@ -162,4 +162,13 @@
  + modified front end to access the API
  + looked a little bit at getting the audio.
 
+** [2016-06-21 Tue]
+ + found an audio API and found a way to use it.
+ + embedded the audio API into a temporary app.
+ + discussed with Sai sir regarding the future plans.
+
+** [2016-06022 Wed]
+ + Extensive discussion with Sai sir.
+ + Decided on adding the scability in adding web services.
+ + Scalability in adding the webservice, webservice can be added by adding a server and hosting it.
 * Month of July
