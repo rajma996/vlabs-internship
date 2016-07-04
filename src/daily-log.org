@@ -219,3 +219,14 @@
     problems
   + had photosession and feedback today .
 
+** [2016-07-02 Sat]
+ + added the tagging service.
+ + reorganized the directory structure with proper explanation.
+
+** [2016-07-03 Sun]
+ + Added the audio web service .
+ + refined the tagging service .
+
+** [2016-07-04 Mon]
+ + Discussed the persistance model for the application.
+ 
