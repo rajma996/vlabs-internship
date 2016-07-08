@@ -229,4 +229,15 @@
 
 ** [2016-07-04 Mon]
  + Discussed the persistance model for the application.
- 
+
+** [2016-07-05 Tue]
+ + finalized the first and second releases for the application.
+ + Met with venkatesh sir and discussed the progress till now and further ideas that can be added.
+
+** [2016-07-06 Wed]
+ + Worked on the freehand drawing service on canvas on a page.
+
+** [2016-07-07 Thu]
+ + Absent . will work this saturday or sunday to coverup
+
+
