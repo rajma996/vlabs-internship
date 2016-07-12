@@ -240,4 +240,16 @@
 ** [2016-07-07 Thu]
  + Absent . will work this saturday or sunday to coverup
 
+** [2016-07-08 Fri]
+ + Worked more on the tagging webservice .
+
+** weekly Summary
+
+** [2016-07-11 Mon]
+ + Worked on making the web page editable.
+ + Added content editable webservice.
+
+** [2016-07-12 Tue]
+ + Completed the tagging service, now it has to be integrated using joiner .
+
 
