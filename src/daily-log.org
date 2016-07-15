@@ -252,4 +252,14 @@
 ** [2016-07-12 Tue]
  + Completed the tagging service, now it has to be integrated using joiner .
 
+** [2016-07-13 Wed]
+ + Completed the editing webservice .
+ + prepared for the presentation.
 
+** [2016-07-14 Thu]
+ + Final presentaion in morning.
+ + Met Sai sir for some final discussions.
+
+** [2016-07-15 Fri]
+ + Made a report for the next intern .
+ + bidding goodbyes .
